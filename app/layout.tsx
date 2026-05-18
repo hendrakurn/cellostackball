@@ -18,6 +18,10 @@ const bodyFont = localFont({
 export const metadata: Metadata = {
   title: "Stack Ball Celo",
   description: "Onchain arcade game on Celo. Break stacks, win CELO.",
+  other: {
+    "talentapp:project_verification":
+      "27f667985e369dcf014e5b6e831f94469152faeb8278a0b6784404db620fb9950dd608725ec4d43941bf188eeb6dd1274ad5ee8eda4dd3f87ee48e0c47332433",
+  },
 };
 
 export const viewport: Viewport = {
